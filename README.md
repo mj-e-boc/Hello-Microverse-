@@ -60,20 +60,9 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://github.com/mj-e-boc/Hello-Microverse-)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
@@ -99,12 +88,6 @@ You can deploy this project using:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
-
-
 👤 **Author1**
 
 - GitHub: [@mj-e-boc](https://github.com/mj-e-boc)
@@ -122,16 +105,6 @@ You can deploy this project using:
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
-
-If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
