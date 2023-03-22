@@ -54,7 +54,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Summary of software engineering skills]**
+- **[Hello Microverse Text, displayed in blueviolet]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -77,29 +77,18 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+In order to run this project you need: node.js , visual studio code
 
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder then drag the folder to visual studio code and open the index.html file using a live server 
 
 
 
 ### Install
 
-Install this project with:
-
-
-### Usage
-
-To run the project, execute the following command:
-
-
-
-### Run tests
-
-To run tests, run the following command:
+Install this project with visual studio code 
 
 
 ### Deployment
