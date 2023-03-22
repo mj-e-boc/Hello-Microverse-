@@ -114,14 +114,6 @@ You can deploy this project using:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[Projects section]**
-- [ ] **[Contacts section]**
-- [ ] **[Gallery]**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -146,24 +138,20 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank Microverse alumni for the inspiration
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+- **[What to expext in the future? ]**
 
-- **[Question_1]**
+  - [Better,cleaner code]
 
-  - [Answer_1]
+- **[Any opportunities for collaboration]**
 
-- **[Question_2]**
-
-  - [Answer_2]
+  - [Please send me a message on linkedin/twitter]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
